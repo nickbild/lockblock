@@ -2,8 +2,13 @@
 
 LockBlock provides universal, distributed, blockchain-based authentication.
 
-## Compilation
+## Overview
 
+![Overview](https://raw.githubusercontent.com/nickbild/nickbild79_firebase/master/public/img/lockblock3.png)
+
+![Overview](https://raw.githubusercontent.com/nickbild/nickbild79_firebase/master/public/img/block.png)
+
+## Compilation
 
 Place *.java files in a new directory, then run the command:
 
